@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ant\Desktop\Programming\Projects\2023\massive-practice\massive-practice\main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ant\Desktop\Programming\Projects\2023\massive-practice\massive-practice\main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  massive-practice.vcxproj -> C:\Users\Ant\Desktop\Programming\Projects\2023\massive-practice\x64\Debug\massive-practice.exe
